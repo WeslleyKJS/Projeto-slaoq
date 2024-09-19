@@ -98,19 +98,6 @@
     font-family: "Poppins";
 }
 
-.ttmaior{
-    font-family: "Poppins", sans-serif;
-    margin-left: -208px;
-    margin-top: 40px;
-    color: var(--Very-Dark-Blue);
-}
-
-.texto{
-    margin-right: 99px;
-    font-family: "Poppins";
-    font-size: 16px;
-    color: var(--Grayish-Blue);
-}
 
 .karma-1{
     text-align: left;
@@ -119,6 +106,42 @@
 }
 
 .karma-2{
+    text-align: left;
+    margin-left: 40px;
+    color: var(--Grayish-Blue);
+}
+
+.casa-1{
+    text-align: left;
+    margin-left: 40px;
+    color: var(--Very-Dark-Blue);
+}
+
+.casa-2{
+    text-align: left;
+    margin-left: 40px;
+    color: var(--Grayish-Blue);
+}
+
+.lupa-1{
+    text-align: left;
+    margin-left: 40px;
+    color: var(--Very-Dark-Blue);
+}
+
+.lupa-2{
+    text-align: left;
+    margin-left: 40px;
+    color: var(--Grayish-Blue);
+}
+
+.computador-1{
+    text-align: left;
+    margin-left: 40px;
+    color: var(--Very-Dark-Blue);
+}
+
+.computador-2{
     text-align: left;
     margin-left: 40px;
     color: var(--Grayish-Blue);
